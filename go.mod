@@ -1,3 +1,3 @@
-module github.com/Riskirizki/go-say-hi
+module github.com/Riskirizki/go-say-hi/v2
 
 go 1.16
